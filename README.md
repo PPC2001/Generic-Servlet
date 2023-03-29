@@ -1,6 +1,8 @@
 # Generic-Servlet
 
-Creating the Servlet by extending the Generic Servlet Abstract Class
+Creating the Servlet by extending the Generic Servlet Abstract Class and here in this example i explained the simple demonstration of it.
+So for that created register.html page which contains form and one more page called as success.jsp which gets visible when user clicks on the submit button.
+Then created the servlet class and mapped this both pages in web.xml
 
 Step 1 - 
 
